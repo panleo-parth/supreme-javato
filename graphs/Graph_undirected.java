@@ -85,19 +85,6 @@ public class Graph_undirected{
  */
 	}
 	
-	
-//	public int Dijkstra(int start_vertex, int end_vertex) throws Exception{
-//		if(graph != null) {
-//			boolean[] is_visited = new boolean[total_vertices];
-//			int[] the_array = new int[total_vertices];
-//			Arrays.fill(the_array, Integer.MAX_VALUE); 
-//			for(Edge e : graph[start_vertex]) {
-//				
-//			}
-//		}
-//		return 0;
-//	} 
-	
 	@Override
 	public String toString() {
 		String result = "";
